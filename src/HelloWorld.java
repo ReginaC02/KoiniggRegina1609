@@ -12,10 +12,10 @@ public class HelloWorld {
         System.out.println( "Welcome to KONF 2022");
         System.out.println("Zeile 3");
         System.out.println("Zeile 4");
-        System.out.println("Zeile 4");
-        System.out.println("Zeile 4");
-        System.out.println("Zeile 4");
-        System.out.println("Zeile 4");
+        System.out.println("Zeile 5");
+        System.out.println("Zeile 6");
+        System.out.println("Zeile 7");
+        System.out.println("Zeile 8");
 
         // File - Export - Projekt zu ZIP File - dient zur Abgabe in der Klausur
 
